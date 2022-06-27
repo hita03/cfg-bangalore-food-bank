@@ -1,0 +1,40 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.navbar-menu{
+    display: flex;
+    justify-content: center;
+}
+
+.nav-item{
+    padding: 11px 10px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: 0.8s;
+    /* width: 120px;
+    justify-content: center;
+    text-align: center; */
+}
+
+.nav-item:hover{
+    background-color: orange;
+    border-radius: 30px;
+}
+ .container{
+    background: url("https://image.shutterstock.com/z/stock-photo-salunkwadi-india-july-school-children-having-mid-day-meal-in-rural-village-salunkwadi-390522517.jpg") no-repeat;
+    background-size: 2000px 1200px;
+    margin: 0%
+}
+.login{
+    background: url("https://cdn.pixabay.com/photo/2018/04/11/10/00/soup-3310066__480.jpg") no-repeat;
+    background-size: 2000px 1400px;
+    margin: 0%
+}
